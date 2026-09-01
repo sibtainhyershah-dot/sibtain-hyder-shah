@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 
+# Hi there, I'm sibtain hyder shah
 
  **High School Student & Aspiring Aerospace Engineer**  
  Saudi Arabia | Grade 11 (American Curriculum)
