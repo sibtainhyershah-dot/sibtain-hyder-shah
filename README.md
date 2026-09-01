@@ -20,7 +20,7 @@
   - Integrated a 4-bar linkage lift mechanism for vertical payload clearance.
   - Custom gear-driven drivetrain optimized for torque and traction.
   - Fabricated scrap-built claw end-effector for versatile object acquisition.
-- **Tools Used:** VEX V5 System, CAD (Autodesk Inventor / Fusion 360).
+- **Tools Used:** VEX V5 System, Tinkercad (3D Modeling & Layout)
 
 ### physics analysis & Elecromegnetism
 - **overview:** Conducted experimental analysison fundamental physics concepts and electromagnetic phenomena.
