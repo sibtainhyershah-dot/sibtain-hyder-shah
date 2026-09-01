@@ -22,7 +22,7 @@
   - Fabricated scrap-built claw end-effector for versatile object acquisition.
 - **Tools Used:** VEX V5 System, Tinkercad (3D Modeling & Layout)
 
-### physics analysis & Elecromegnetism
+### Physics Analysis & Electromegnetism
 - **overview:** Conducted experimental analysis on fundamental physics concepts and electromagnetic phenomena.
 - **Key Project:** Studied Hans Christian Oersted’s electromagnetism experiment to analyze magnetic fields created by electrical conductors and their practical engineering applications.
 
@@ -43,4 +43,4 @@
 -  **Email:** sibainhyershah@gmail.com
 
 ---
-*“Failure is an option here. If things are not failing, you are not innovating enough.” — Elon Musk*
+> *“Failure is an option here. If things are not failing, you are not innovating enough.” — Elon Musk*
