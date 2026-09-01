@@ -23,7 +23,7 @@
 - **Tools Used:** VEX V5 System, Tinkercad (3D Modeling & Layout)
 
 ### physics analysis & Elecromegnetism
-- **overview:** Conducted experimental analysison fundamental physics concepts and electromagnetic phenomena.
+- **overview:** Conducted experimental analysis on fundamental physics concepts and electromagnetic phenomena.
 - **Key Project:** Studied Hans Christian Oersted’s electromagnetism experiment to analyze magnetic fields created by electrical conductors and their practical engineering applications.
 
 ---
